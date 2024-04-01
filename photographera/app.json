@@ -21,17 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.lelecorocha.photographera"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "7734942f-2c34-4cde-a427-a940502ef317"
-      }
-    },
-    "owner": "lelecorocha"
+    }
   }
 }
